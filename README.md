@@ -20,7 +20,7 @@
     <p>You can install the required packages using pip:</p>
     <pre><code>pip install tensorflow keras numpy matplotlib</code></pre>
     <h3>Dataset</h3>
-    <p>You need to have a dataset of images of cats and dogs for training and testing the model. You can use the <a href="https://
+    <p>You need to have a dataset of images of cats and dogs for training and testing the model.</p>
 
 
 
